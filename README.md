@@ -11,10 +11,6 @@ This repository contains the code and resources for brain tumor detection using 
 3. [Dataset](#dataset)
 4. [Usage](#usage)
 5. [Model Training](#model-training)
-6. [Inference](#inference)
-7. [Visualization](#visualization)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
